@@ -1,0 +1,4 @@
+[29-Dec-2021 12:54:52 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/pvc6zct3o2nf/public_html/staging.brandnueweightloss.com/adminer.php on line 1537
+[05-Jun-2024 08:20:56 America/New_York] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::paymentList() in /home/pvc6zct3o2nf/public_html/dev.brandnueweightloss.com/app/Http/Controllers/AdminController.php on line 229
+[05-Jun-2024 08:23:34 America/New_York] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::paymentList() in /home/pvc6zct3o2nf/public_html/dev.brandnueweightloss.com/app/Http/Controllers/AdminController.php on line 229
+[05-Jun-2024 08:23:57 America/New_York] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::paymentList() in /home/pvc6zct3o2nf/public_html/dev.brandnueweightloss.com/app/Http/Controllers/AdminController.php on line 229
